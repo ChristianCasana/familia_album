@@ -1,0 +1,21 @@
+body {
+  background-image: url(https://img2.freepng.es/20180307/glw/kisspng-infant-child-baby-blue-seamless-background-vector-5aa0af5b751d33.4053265615204800914797.jpg);
+}
+
+h1 {
+  background-color: black;
+  color: orangered;
+  text-align: center;
+}
+
+h2 {
+  color: darkmagenta;
+}
+
+img {
+  width: 49%;
+}
+
+video {
+  width: 100%;
+}
